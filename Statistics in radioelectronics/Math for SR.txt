@@ -1,0 +1,84 @@
+
+<div align="left">\(\sin^2x + \cos^2x=\)</div>	<div align="left">\(= 1\)</div>
+<div align="left">\(\operatorname {tg} ^{2}a +1=\)</div>	<div align="left">\(\frac {1}{\cos ^{2}a }, (a \neq {\frac  {\pi }{2}}+\pi n,n\in {\mathbb  Z} )\)</div>
+<div align="left">\(\operatorname {ctg}^{2}a +1=\)</div>	<div align="left">\(={\frac  {1}{\sin ^{2}a }}, (a \neq \pi n,n\in {\mathbb  Z})\)</div>
+<div align="left">\( \operatorname {tg} a \cdot \operatorname {ctg} a =\)</div>	<div align="left">\(=1,(a \neq {\frac  {\pi n}{2}},n\in {\mathbb  Z})\)</div>
+<div align="left">\(\sin \left(a \pm b \right)=\)</div>	<div align="left">\(=\sin a \cos b \pm \cos a \sin b\)</div>
+<div align="left">\(\cos \left(a \pm b \right)=\)</div>	<div align="left">\(=\cos a \cos b \mp \sin a \sin b\)</div>
+<div align="left">\(\operatorname {tg} \left(a \pm b \right)=\)</div>	<div align="left">\(=\frac {\operatorname {tg} a \pm \operatorname {tg} b }{1\mp \operatorname {tg} a \operatorname {tg} b }\)</div>
+<div align="left">\(\operatorname {ctg}\left(a \pm b \right)=\)</div>	<div align="left">\(=\frac {\operatorname {ctg}a \operatorname {ctg}b \mp 1}{\operatorname {ctg}b \pm \operatorname {ctg}a }\)</div>
+<div align="left">\(\sin 2a =\)</div>	<div align="left">\(=2{\sin a }\ {\cos a }={\frac {2\operatorname {tg} a }{1+\operatorname {tg} ^{2}a }}\)</div>
+<div align="left">\(\cos 2a =\)</div>	<div align="left">\(={\cos ^{2}a }-{\sin ^{2}a }\)</div>
+<div align="left">\(\cos 2a =\)</div>	<div align="left">\(=2{\cos ^{2}a }-1=1-2{\sin ^{2}a }\)</div>
+<div align="left">\(\operatorname {tg}2a =\)</div>	<div align="left">\(={\frac  {2\operatorname {tg}a }{1-\operatorname {tg}^{2}a }}\)</div>
+<div align="left">\(\operatorname {ctg}2a =\)</div>	<div align="left">\(={\frac  {\operatorname {ctg}^{2}a -1}{2\operatorname {ctg}a }}\)</div>
+<div align="left">\(\sin ^{2}a =\)</div>	<div align="left">\(={\frac {1-\cos 2a }{2}}\)</div>
+<div align="left">\(\cos ^{2}a =\)</div>	<div align="left">\(={\frac {1+\cos 2a }{2}}\)</div>
+<div align="left">\(\sin ^{2}a \cos ^{2}a =\)</div>	<div align="left">\(=\frac {1-\cos 4a }{8}\)</div>
+<div align="left">\(\sin a \sin b =\)</div>	<div align="left">\(={\frac  {\cos(a -b )-\cos(a +b )}{2}}\)</div>
+<div align="left">\(\sin a \cos b =\)</div>	<div align="left">\(={\frac  {\sin(a -b )+\sin(a +b )}{2}}\)</div>
+<div align="left">\(\cos a \cos b =\)</div>	<div align="left">\(={\frac  {\cos(a -b )+\cos(a +b )}{2}}\)</div>
+<div align="left">\(\sin a \pm \sin b =\)</div>	<div align="left">\(=2\sin {\frac  {a \pm b }{2}}\cos {\frac  {a \mp b }{2}}\)</div>
+<div align="left">\(\cos a +\cos b =\)</div>	<div align="left">\(=2\cos {\frac  {a +b }{2}}\cos {\frac  {a -b }{2}}\)</div>
+<div align="left">\(\cos a -\cos b =\)</div>	<div align="left">\(=-2\sin {\frac  {a +b }{2}}\sin {\frac  {a -b }{2}}\)</div>
+<div align="left">\(\operatorname {tg}a \pm \operatorname {tg}b =\)</div>	<div align="left">\(={\frac  {\sin(a \pm b )}{\cos a \cos b }}\)</div>
+<div align="left">\(\operatorname {ctg}a \pm \operatorname {ctg}b =\)</div>	<div align="left">\(={\frac  {\sin(b \pm a )}{\sin a \sin b }}\)</div>
+<div align="left">\(e^{ix}=\)</div>	<div align="left">\(=\cos x + i \sin x\)</div>
+<div align="left">\(\sin x=\)</div>	<div align="left">\(={\frac  {e^{{ix}}-e^{{-ix}}}{2i}}\)</div>
+<div align="left">\(\cos x=\)</div>	<div align="left">\(={\frac {e^{ix}+e^{-ix}}{2}}\)</div>
+<div align="left">\(e^{{i\pi }}+1=\)</div>	<div align="left">\(=0\)</div>
+<div align="left">\(\int Cf(x)\,dx=\)</div>	<div align="left">\(=C\int f(x)\,dx\)</div>
+<div align="left">\(\int [f(x) + g(x)]\,dx =\)</div>	<div align="left">\(= \int f(x)\,dx + \int g(x)\,dx\)</div>
+<div align="left">\(\int f(x)g(x)\,dx=\)</div>	<div align="left">\(=f(x)\int g(x)\,dx-\int \left(\int g(x)\,dx\right)\,df(x)\)</div>
+<div align="left">\(\int f(ax+b)\,dx =\)</div>	<div align="left">\(= {1 \over a} F(ax+b)\,+C\)</div>
+<div align="left">\(\int \!0\,dx=\)</div>	<div align="left">\(=C\)</div>
+<div align="left">\(\int \!a\,dx=\)</div>	<div align="left">\(=ax+C\)</div>
+<div align="left">\(\int \!x^{n}\,dx=\)</div>	<div align="left">\(={\begin{cases}{ \frac {x^{n+1}}{n+1}}+C,&n\neq -1 \\ \ln \left|x\right|+C,&n=-1 \end{cases}}\)</div>
+<div align="left">\(\int\!{dx \over {a^2+x^2}} =\)</div>	<div align="left">\(= {1 \over a}\operatorname{arctg}\frac{x}{a} + C = - {1 \over a}\operatorname{arcctg} \frac{x}{a} + C\)</div>
+<div align="left">\(\int\!\ln {x}\,dx =\)</div>	<div align="left">\(= x \ln {x} - x + C\)</div>
+<div align="left">\(\int \frac{dx}{x\ln x} =\)</div>	<div align="left">\(= \ln|\ln x|+ C\)</div>
+<div align="left">\(\int\!\log_b {x}\,dx =\)</div>	<div align="left">\(= x\log_b {x} - x\log_b {e} + C = x\frac{\ln {x} - 1}{\ln b} + C\)</div>
+<div align="left">\(\int\!e^x\,dx =\)</div>	<div align="left">\(= e^x + C\)</div>
+<div align="left">\(\int\!a^x\,dx =\)</div>	<div align="left">\(= \frac{a^x}{\ln{a}} + C\)</div>
+<div align="left">\(\int_{-\infty}^\infty{e^{-x^2}}dx=\)</div>	<div align="left">\(=\sqrt{\pi}\)</div>
+<div align="left">\(\int\!\sin{x}\, dx =\)</div>	<div align="left">\(= -\cos{x} + C\)</div>
+<div align="left">\(\int\!\cos{x}\, dx =\)</div>	<div align="left">\(= \sin{x} + C\)</div>
+<div align="left">\(\int\!\operatorname{tg}\, {x} \, dx =\)</div>	<div align="left">\(= -\ln{\left| \cos {x} \right|} + C\)</div>
+<div align="left">\(\int\!\operatorname{ctg}\, {x} \, dx =\)</div>	<div align="left">\(= \ln{\left| \sin{x} \right|} + C\)</div>
+<div align="left">\(\int\!\sin^2 x \, dx =\)</div>	<div align="left">\(= \frac{1}{2}(x - \sin x \cos x) + C\)</div>
+<div align="left">\(\int\!\cos^2 x \, dx =\)</div>	<div align="left">\(= \frac{1}{2}(x + \sin x \cos x) + C\)</div>
+<div align="left">\(\int \arcsin x\,dx=\)</div>	<div align="left">\(=x\arcsin x+{\sqrt {1-x^{2}}}+C\)</div>
+<div align="left">\(\int \arcsin {\frac {x}{a}}\,dx=\)</div>	<div align="left">\(=x\arcsin {\frac {x}{a}}+{\sqrt {a^{2}-x^{2}}}+C\)</div>
+<div align="left">\(\int \arccos x\,dx=\)</div>	<div align="left">\(=x\arccos x-{\sqrt {1-x^{2}}}+C\)</div>
+<div align="left">\(\int \arccos {\frac {x}{a}}\,dx=\)</div>	<div align="left">\(=x\arccos {\frac {x}{a}}-{\sqrt {a^{2}-x^{2}}}+C\)</div>
+<div align="left">\(\int \operatorname {arctg} \,x\,dx=\)</div>	<div align="left">\(=x\,\operatorname {arctg} \,x-{\frac {1}{2}}\ln(1+x^{2})+C\)</div>
+<div align="left">\(\int \operatorname {arctg} \,{\frac {x}{a}}\,dx=\)</div>	<div align="left">\(=x\,\operatorname {arctg} \,{\frac {x}{a}}-{\frac {a}{2}}\ln(1+{\frac {x^{2}}{a^{2}}})+C\)</div>
+<div align="left">\(\int \operatorname {arcctg} \,x\,dx=\)</div>	<div align="left">\(=x\,\operatorname {arcctg} \,x+{\frac {1}{2}}\ln(1+x^{2})+C\)</div>
+<div align="left">\(\int \operatorname {arcctg} \,{\frac {x}{a}}\,dx=\)</div>	<div align="left">\(=x\,\operatorname {arcctg} \,{\frac {x}{a}}+{\frac {a}{2}}\ln(a^{2}+x^{2})+C\)</div>
+<div align="left">\(\int u\,dv=\)</div>	<div align="left">\(=u\,v-\int v\,du\)</div>
+<div align="left">\(\int \limits _{a}^{b}u\,dv=\)</div>	<div align="left">\(=u\,v\,{\bigg |}_{a}^{b}-\int \limits _{a}^{b}v\,du\)</div>
+<div align="left">\({d \over dx}\sin x=\)</div>	<div align="left">\(=\cos x\)</div>
+<div align="left">\({d \over dx}\cos x=\)</div>	<div align="left">\(=-\sin x\)</div>
+<div align="left">\({d \over dx}\,\operatorname {tg}\,x=\)</div>	<div align="left">\(={1 \over \cos ^{2}x}=\operatorname {tg}^{2}x+1\)</div>
+<div align="left">\({d \over dx}\,\operatorname {ctg} \,x=\)</div>	<div align="left">\(=-{1 \over \sin ^{2}x}\)</div>
+<div align="left">\({d \over dx}\arcsin x=\)</div>	<div align="left">\(={1 \over {\sqrt  {1-x^{2}}}}\)</div>
+<div align="left">\({d \over dx}\arccos x=\)</div>	<div align="left">\(=-{1 \over {\sqrt {1-x^{2}}}}\)</div>
+<div align="left">\({d \over dx}\,\operatorname {arctg}\,x=\)</div>	<div align="left">\(={1 \over 1+x^{2}}\)</div>
+<div align="left">\({d \over dx}\,\operatorname {arcctg} \,x=\)</div>	<div align="left">\(=-{1 \over 1+x^{2}}\)</div>
+<div align="left">\(\left({cf}\right)'=\)</div>	<div align="left">\(=cf'\)</div>
+<div align="left">\(\left({f+g}\right)'=\)</div>	<div align="left">\(=f'+g'\)</div>
+<div align="left">\(\left({f-g}\right)'=\)</div>	<div align="left">\(=f'-g'\)</div>
+<div align="left">\(\left({fg}\right)'=\)</div>	<div align="left">\(=f'g+fg'\)</div>
+<div align="left">\(\left({f \over g}\right)'=\)</div>	<div align="left">\(={f'g-fg' \over g^{2}},\qquad g\neq 0\)</div>
+<div align="left">\((f^{g})'=\)</div>	<div align="left">\(=\left(e^{g\ln f}\right)'=f^{g}\left(f'{g \over f}+g'\ln f\right),\qquad f>0\)</div>
+<div align="left">\({\frac  {d}{dx}}f(g(x))=\)</div>	<div align="left">\(={\frac  {df(g)}{dg}}\cdot {\frac  {dg(x)}{dx}}=f'_{g}g'_{x}\)</div>
+<div align="left">\(\lim_{x\rightarrow 0} {\frac{\sin x}{x}} =\)</div>	<div align="left">\(= 1\)</div>
+<div align="left">\(\lim_{x\rightarrow 0} {(1-\cos x)} =\)</div>	<div align="left">\(= \frac{1}{2} x^2\)</div>
+<div align="left">\(\lim_{x\rightarrow 0} {\operatorname{tg}x} =\)</div>	<div align="left">\(= \frac{1}{2} x^2\)</div>
+<div align="left">\(\lim_{x\rightarrow 0} {\operatorname{ctg}x} =\)</div>	<div align="left">\(= \frac{1}{x}\)</div>
+<div align="left">\(\lim_{x\rightarrow 0} {\frac{\ln{(1+x)}}{x}} =\)</div>	<div align="left">\(= \lim_{x\rightarrow 0} {\ln{(1+x)}^{1/x} } = 1\)</div>
+<div align="left">\(\lim_{x\rightarrow 0} {\ln(1+x)} =\)</div>	<div align="left">\(= x\)</div>
+<div align="left">\(\lim_{x\rightarrow 1} {\ln(x)} =\)</div>	<div align="left">\(= x-1\)</div>
+<div align="left">\(\lim_{x\rightarrow 0} {e^x-1} =\)</div>	<div align="left">\(= x\)</div>
+<div align="left">\(\lim_{x\rightarrow 0} {(1+x)^a} =\)</div>	<div align="left">\(= 1+ax\)</div>
+
