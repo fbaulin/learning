@@ -1,0 +1,26 @@
+<div align="left">Алгоритм работы оптимального (по критерию минимума полной вероятности ошибки) различителя двух сигналов</div>	<div align="left">\( q = {2\over N_0} \int_0^T u(t)(s_1(t)-s_2(t))dt <> \ln{ p_2 \over p_1} + {E_1 - E_2 \over N_0} = l_0 \)</div>
+
+<div align="left">Определение вероятности ошибки \(p_{ош}\) через плотность вероятности \(w(q_1)\)</div>	<div align="left">\(p_{ош}(s_1) = \int_{-\infty}^{l_0} w(q_1)dq_1\)</div>
+
+<div align="left">Средняя полная вероятность ошибки используемая для оценки помехоустойчивости</div>	<div align="left">\(p_{ош} = \sum_i p_i p_{ош}(s_i)\)</div>
+
+<div align="left">Средняя вероятность ошибки при двоичной передаче и когерентном приеме сигналов</div>	<div align="left">\(p_{ош} = 1-\Phi\left(\sqrt{(1-r)h^2}\right) = 1- \Phi\left(\sqrt{(1-r){E \over N_0}}\right) \)</div>
+
+<div align="left">Интеграл вероятности \(\Phi(x)\)</div>	<div align="left">\(\Phi(x)={1\over\sqrt{2\pi}} \int_{-\infty}^{x} e^{-{1\over2} z^2}dz \)</div>
+
+<div align="left">Качество передачи информации в канале с замираниями (\(\mu(t)\))</div>	<div align="left">\( \bar p_{ош}(\mu) = \int_0^{\infty} p_{ош}(\mu)w(\mu)d\mu \)</div>
+
+<div align="left">Связь между величиной \(h\) и \(\mu\)</div>	<div align="left">\( h^2 = {\mu^2 \over \bar \mu^2} \bar h^2 \)</div>
+
+<div align="left">Надежность по помехоустойчивости</div>	<div align="left">используется в тех случаях, когда длительность интервалов корреляции замираний соизмерима с длительностью сообщения \( P_{надёж}=P(p_{ош} \le p_{доп} = P(h \ge h_{доп} = \int_{h_{доп}}^\infty w(h) dh \)</div>
+
+<div align="left">Пропускная способность канала с замираниями</div>	<div align="left">\( C(\mu) = F_k \log\left(1+\mu^2{P_s\over P_n}\right) \)</div>
+
+<div align="left">Средняя пропускная способность канала с замираниями</div>	<div align="left">\( \bar C =\int_0^\infty C(\mu)w(\mu)d\mu \)</div>
+
+<div align="left">Надежность по помехоустойчивости при разнесенном приеме по  каналам</div>	<div align="left">\( P_N (p_{ош}?p_{доп} )=1-(1-P_1 (p_{ош}?p_{доп} ))^N\)</div>
+
+<div align="left">Значение  при оптимальном разнесенном приеме с когерентным сложением</div>	<div align="left">\( h^2 = \sum_{i=}^N {\mu_i^2(t)\over \mu_{1 ср.}^2} h_{1 ср}^2 = {1 \over N } \sum_{i=1}^N {\mu_i^2(t)\over \mu_{1 ср.}^2} h_{ср}^2  = \sum_{i=1}^N h_i^2\)</div>
+
+<div align="left">Вероятность ошибки при дискретном сложении сигналов (методом мажоритарного сложения)</div>	<div align="left">\( \bar p_{ош} (h) = \sum_{i=n}^{2n-1} C_N^i p_{ош}^i(h) \cdot (1-p_{ош}(h))^{2n-1-i} \)</div>
+
